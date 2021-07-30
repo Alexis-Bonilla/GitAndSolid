@@ -1,4 +1,4 @@
-package SOLID;
+package SOL1D;
 
 import java.util.ArrayList;
 import java.util.HashMap;
