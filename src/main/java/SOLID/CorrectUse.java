@@ -7,9 +7,13 @@ import java.util.Iterator;
 public class CorrectUse {
 	
 	
+<<<<<<< HEAD
 	private int 
 		b;
 	private String m; 
+=======
+	private iny aall
+>>>>>>> 67dc5e763ac632beb277a8185c8b7bf60666b9c4
 	
 	private HashMap sdaigja;
 	
