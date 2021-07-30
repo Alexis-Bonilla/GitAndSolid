@@ -8,8 +8,12 @@ public class CorrectUse {
 	
 	
 
-	private int 
-		b;
+	private long p;
+
+
+	private int y;
+
+	private char b;
 	
 	private String m; 
 
