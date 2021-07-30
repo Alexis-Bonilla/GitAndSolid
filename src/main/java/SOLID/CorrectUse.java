@@ -9,6 +9,7 @@ public class CorrectUse {
 	
 	private int 
 		b;
+	private String m; 
 	
 	public CorrectUse() {
 		
