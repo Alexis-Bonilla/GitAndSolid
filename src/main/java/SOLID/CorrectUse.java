@@ -7,8 +7,17 @@ import java.util.Iterator;
 public class CorrectUse {
 	
 	
-	private long 
-		b;
+
+	private long p;
+
+
+	private int y;
+
+	private char b;
+	
+	private String m; 
+
+	private int  c;
 	
 	private HashMap sdaigja;
 	
