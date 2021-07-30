@@ -11,6 +11,8 @@ public class CorrectUse {
 		b;
 	private String m; 
 	
+	private HashMap sdaigja;
+	
 	public CorrectUse() {
 		
 		
